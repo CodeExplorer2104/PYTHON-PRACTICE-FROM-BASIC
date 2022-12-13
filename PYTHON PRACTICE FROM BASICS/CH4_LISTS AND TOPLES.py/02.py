@@ -1,0 +1,10 @@
+a=input("ENTER YOUR MARKS")
+b=input("ENTER YOUR MARKS")
+c=input("ENTER YOUR MARKS")
+d=input("ENTER YOUR MARKS")
+e=input("ENTER YOUR MARKS")
+f=input("ENTER YOUR MARKS")
+print([a,b,c,d,e,f])
+list=[a,b,c,d,e,f]
+list.sort()
+print(list)

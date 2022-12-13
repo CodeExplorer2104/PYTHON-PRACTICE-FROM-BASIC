@@ -1,0 +1,8 @@
+a=input("ENTER 1ST FRUIT:")
+b=input("ENTER 2ND FRUIT:")
+c=input("ENTER 3RD FRUIT:")
+d=input("ENTER 4TH FRUIT:")
+e=input("ENTER 5TH FRUIT:")
+f=input("ENTER 6TH FRUIT:")
+g=input("ENTER 7TH FRUIT:")
+print("LIST OF FRUITS YOU ENTERED ARE",[a,b,c,d,e,f,g])
